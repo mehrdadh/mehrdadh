@@ -1,6 +1,6 @@
-[![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdadh&count_private=true&show_icons=true&theme=buefy)](https://github.com/mehrdadh/github-readme-stats)
+[![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdadh&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadh&langs_count=8&layout=compact)](https://github.com/mehrdadh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadh&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehrdadh&repo=microtvm-device&show_owner=true)](https://github.com/mehrdadh/microtvm-device) -->
 
